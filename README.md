@@ -1,2 +1,2 @@
-# frontlabpro.github.io
-frontlabpro.github.io
+# frontlab.github.io
+frontlab.github.io
